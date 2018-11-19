@@ -1,1 +1,2 @@
 # GoogleAnalyticsReportingCSharp
+Sample API: [http://testapp.konsultanitbandung.net/google-analytics-reporting/api/webtraffic?s=2018-11-01&e=2018-11-08](http://testapp.konsultanitbandung.net/google-analytics-reporting/api/webtraffic?s=2018-11-01&e=2018-11-08 "Sample API")
