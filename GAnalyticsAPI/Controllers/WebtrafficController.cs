@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 
 namespace GAnalyticsAPI.Controllers
 {
-    public class DashboardController : ApiController
+    public class WebtrafficController : ApiController
     {
         [NonAction]
         public IQueryable<ModelGAResult> GenerateData(string type, string START_DATE, string END_DATE)
@@ -180,9 +180,7 @@ namespace GAnalyticsAPI.Controllers
         /// <param name="s">Start Date = yyyy-mm-dd</param>
         /// <param name="e">End Date = yyyy-mm-dd</param>
         /// <returns></returns>
-        [HttpGet]
-        [Route("api/dashboard/webtraffic")]
-        public HttpResponseMessage WebTrafficGet(string s, string e)
+        public HttpResponseMessage Get(string s, string e)
         {
             HttpResponseMessage response = null;
             CResponseMessage customResponse = new CResponseMessage();
