@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lcdi-222604",
+  "private_key_id": "3007db40d763956deae4bfa5b4a9d9af5a366efe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAn2yX2p00dk9s\n38CaCnaDEDhzuE8a6NFu6BmX5ISkeE4mP0FmNwUVAiqIvAX18Kaz0X2jVV1yxVOg\nLbVMk/BB17I3edmHg6KYOZ3xL3DA/ttxB2AUYLZglMCip5BeEkjF7xiow75o3bE9\noTTze23X3INcV1dUwm1IPdXjGWvZ4KyqLW/madozI2R9MzEl5kVD891K2Elrt/F2\niGCy5AKvfaJ7zsiVEAbacb8kYZ6c9VHT8Hf4KiDGLd/9aIixZk4O9Sl8NzZCV0TA\nm7jYVONMSQP+BdEQhuYxJSADDEb6jCEPAWtkVxIqkWgoCArVKCGlvDq4NCfgQ+Pk\nfVXRDb6VAgMBAAECggEAKNtoAEnJoJAbxr8rLkFb4+7z2m/Ur6OEkN7AVvyMugoe\noXQ3XgP7mvorpXckWIdkBK5B1PxNZwO9+jLXytdyVbT3w1agMmNUgK9v9fGXHAiy\n6SWkVo4xAQlsVtPuBlYgg4N0mo9yevHTH3xrK94ZbXkDj/mit4LKBVHAZXxF6R+l\ncPaVyRVK58l2ALWUOaH2hHekXmurgIWdBXH7aMLqH3I5srj3LtnSSoR6klNnWf8J\nRWVPaDPfjs+K3P56jiCTKIfw36r8pOsVQXWaAbcLjlhbegsgynDch2tV5OA0OYzo\n0tAcU2+pon6+fhkdFl7c+txiV0z67lm50A6OsC/IHQKBgQDuJKUd6JWXpJmY7tSZ\ndnf3jm8GBqn+bzw+/61KISViu+ssB8PdLQWKFVr9Z5sfdhse9IGMOWO9WyvMP+ZA\nOBxZ+d862QI6o9BDUNRBYZGog8AQgpDaVTK80v8ZJM++bevTEJZBjPn3/rbz3Um8\nnClWAg7ymDuJxK89kfvj57kDZwKBgQDPEPo+9J6mwad3k4iecKXATbSPQkPN3WUb\n8yBj2OqRP7czKZMk3hZKFT1DTBH9VJckL/SbF6Um6Lamw2VOAX2kSL2VXT9Tr59U\nchoqACm6TnnHlvWMBPGU5K3y+ZnKNOiZSIaLnq371lwMJxjtTx0evLdCa/fEJiOq\nNkkdhBJMowKBgQC3s+b3cmJrLxsZYSr5Eu0qN2KnmF5sGmy0AFEx/O21A1c/iOHr\nbP537U9aaSC9nUMAlwaUH/Uzre/USHqakW41bk5oO9y/VXyjYOfLY7OT9cYkNkP9\nWHmiNXV5dO8Ya/zdvU7bVB/D0WZaKhrmduRgJ4hWVV6gQOwZp9JSlX8gAwKBgQC0\nRTOYW59DzpTdpbPrPGcRZJUto6MkNvsvuhsY0mBk0/PKtwdDsZX2KUeMr016H4r2\nFkn+PDesCC38QWCQ6PtZa3qh7uyTDvLHsg7VQg8SBABBo0ti+2rXFb/bKTKauDVI\nPbvlEeCmv5ije+ZXs+jGOcXSLe0m941VQq2k5LaJwQKBgHa5M+Av498htKD6KPx4\n5oIJpRJNnDcQFutAo0NiUntlpwoqjQSRFdm5yzoZ0rFr6BmBI7qC4D1bk0O9c0xF\nDdPiLjX1H9nzUW7QO3UBnB8oIYinus9SKKmQc61oEMQi6sD0+g04OpikuQOrojKy\nrkL6WjY2Onlzq94oi7z3Z1RO\n-----END PRIVATE KEY-----\n",
+  "client_email": "lowcarbon@lcdi-222604.iam.gserviceaccount.com",
+  "client_id": "104363747236404487319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lowcarbon%40lcdi-222604.iam.gserviceaccount.com"
+}
